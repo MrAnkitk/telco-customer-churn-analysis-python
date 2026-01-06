@@ -27,10 +27,7 @@ The objective is to uncover the **drivers of churn** and provide **data-driven r
   - Two-Year → **3% churn**  
 
 ### 4. Services Subscribed  
-- **Fiber Optic Internet** → **42% churn**, vs. **19%** for DSL.  
-- **No Tech Support** → **41% churn**, vs. **15%** with Tech Support.  
-- **No Online Security** → **40% churn**, vs. **15%** with it.  
-- Add-on services like **Backup, Device Protection, Streaming** reduce churn when bundled.  
+
 
 ### 5. Billing & Payment Methods  
 - **Paperless Billing** → **33% churn**, vs. **23%** for paper billing.  

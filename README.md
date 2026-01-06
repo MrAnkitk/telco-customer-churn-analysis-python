@@ -61,5 +61,6 @@ The objective is to uncover the **drivers of churn** and provide **data-driven r
 ---
 
 ## 📈 Outcome  
+This project provides **actionable insights** into churn behavior, helping telecom companies design targeted **retention strategies** that can significantly reduce churn and improve customer loyalty.  
 
 ---

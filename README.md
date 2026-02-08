@@ -15,7 +15,8 @@ The objective is to uncover the **drivers of churn** and provide **data-driven r
 ### 2. Demographics & Customer Profile  
 - **Senior Citizens**: Churn rate nearly **42%**, far above the average.  
 - **Without Partners**: Churn **32%** vs. **20%** with partners.  
-- **Without Dependents**: Churn **31%** vs. **16%** with dependents.  
+- **Without Dependents**: Churn **31%** vs. **16%** with dependents.
+- - **Gender**: Male & Female show similar churn (~27%).  
 
 ### 3. Tenure & Contracts  
 - **New Customers (1–2 months)**: Churn **>50%**.  

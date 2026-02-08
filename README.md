@@ -10,6 +10,7 @@ The objective is to uncover the **drivers of churn** and provide **data-driven r
 
 ### 1. Overall Churn  
 - **26.5% of customers (≈1,869 out of 7,043)** discontinued services.  
+- This means **1 in 4 customers leave**, highlighting a significant retention challenge.  
 
 ### 2. Demographics & Customer Profile  
 - **Senior Citizens**: Churn rate nearly **42%**, far above the average.  

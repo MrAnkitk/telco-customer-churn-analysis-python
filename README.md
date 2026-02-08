@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview  
 This project analyzes **7,043 telecom customer records** with 21 variables, covering demographics, service subscriptions, billing methods, contracts, and churn status.  
-The objective is to uncover the **drivers of churn** and provide **data-driven recommendations**
+The objective is to uncover the **drivers of churn** and provide **data-driven recommendations** for customer retention.  
 
 ---
 
